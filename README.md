@@ -31,7 +31,7 @@ Antes de ejecutar el proyecto, asegúrate de contar con lo siguiente:
 
 ## 3. Demo
 
-Para ver el modelo en acción, accede a la carpeta `/demo/`, donde encontrarás un video que demuestra el flujo completo: desde la ejecución del modelo en Google Colab hasta las pruebas con la API.  
+Para ver el modelo en acción, accede a la carpeta `/demo/`, donde encontrarás un video que demuestra el flujo completo: desde la ejecución del modelo en Google Colab hasta las pruebas con la API. [aquí](./demo/demo.mp4).
 
 ## 4. Informe Final
 
