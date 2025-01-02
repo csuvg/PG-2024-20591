@@ -36,6 +36,6 @@ Para ver el modelo en acción, accede a la carpeta `/demo/`, donde encontrarás 
 ## 4. Informe Final
 
 El informe final del proyecto, con todos los detalles técnicos y resultados, se encuentra en la carpeta `/docs/` bajo el nombre `Informe_Final_Proyecto.pdf`.  
-Puedes acceder directamente al informe [aquí](./docs/Informe_Final_Proyecto.pdf).
+Puedes acceder directamente al informe [aquí](./docs/Trabajo_de_Graduacion(9).pdf).
 
 
