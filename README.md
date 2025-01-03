@@ -32,10 +32,7 @@ Antes de ejecutar el proyecto, asegúrate de contar con lo siguiente:
 
 Para ver el modelo en acción, revisa el video a continuación, que demuestra el flujo completo: desde la ejecución del modelo en Google Colab hasta las pruebas con la API. Puedes reproducirlo directamente:
 
-<video controls>
-  <source src="./demo/demo.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de videos. Puedes descargar el video [aquí](./demo/demo.mp4).
-</video>
+https://github.com/user-attachments/assets/2b36418e-6fb4-441c-a93f-82f6d37cb1a2
 
 ## 4. Informe Final
 
