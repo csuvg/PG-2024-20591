@@ -1,4 +1,3 @@
-
 # Proyecto de Graduación: Clasificación de Plagas en Caña de Azúcar
 
 Este repositorio contiene el código y los recursos desarrollados para el proyecto de graduación, enfocado en la detección y clasificación de plagas en hojas de caña de azúcar en Guatemala. El objetivo principal del proyecto fue implementar y comparar modelos de aprendizaje automático y aprendizaje profundo, culminando en un modelo de ensamble que demostró ser el más efectivo.
@@ -31,11 +30,18 @@ Antes de ejecutar el proyecto, asegúrate de contar con lo siguiente:
 
 ## 3. Demo
 
-Para ver el modelo en acción, accede a la carpeta `/demo/`, donde encontrarás un video que demuestra el flujo completo: desde la ejecución del modelo en Google Colab hasta las pruebas con la API. [aquí](./demo/demo.mp4).
+Para ver el modelo en acción, revisa el video a continuación, que demuestra el flujo completo: desde la ejecución del modelo en Google Colab hasta las pruebas con la API. Puedes reproducirlo directamente:
+
+<video controls>
+  <source src="./demo/demo.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de videos. Puedes descargar el video [aquí](./demo/demo.mp4).
+</video>
 
 ## 4. Informe Final
 
 El informe final del proyecto, con todos los detalles técnicos y resultados, se encuentra en la carpeta `/docs/` bajo el nombre `Informe_Final_Proyecto.pdf`.  
 Puedes acceder directamente al informe [aquí](./docs/Trabajo_de_Graduación.pdf).
 
+## 5. Resultados de los Modelos
 
+Los resultados de los diferentes modelos desarrollados se encuentran disponibles en este repositorio: [Resultados de los Modelos](https://github.com/EstebanAG1005/Proyecto-Pantaleon/tree/main/Results).
